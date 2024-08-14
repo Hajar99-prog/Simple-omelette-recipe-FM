@@ -1,0 +1,77 @@
+
+body {
+    margin: 150px 300px;
+    background-color: hsl(30, 54%, 90%);
+    font-size: 16px;
+    font-family: "Outfit", sans-serif;
+}
+
+main {
+    background-color: hsl(0, 0%, 100%);
+    padding: 50px;
+    border-radius: 16px;
+}
+
+img {
+    border-radius: 8px;
+    width: 100%;
+    margin: auto;
+}
+
+.preparation-time{
+    padding: 10px;
+    background-color: hsl(330, 100%, 98%);
+    border-radius: 8px;
+    margin-top: 25px;;
+}
+
+.ingredients ul {
+    list-style-type: square;
+}
+
+h3 {
+    color: hsl(332, 51%, 32%);
+}
+
+h1 {
+    font-size: 36px;
+    font-family: "Young Serif", serif;
+}
+
+h2 {
+    font-family: "Young Serif", serif;
+    color: hsl(14, 45%, 36%);
+    font-style: normal;
+}
+
+span {
+    font-weight: bold;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    margin: auto;
+    border-style:hidden;
+}
+
+td, th {
+    border-bottom: 1px solid grey;
+    padding: 10px;
+}
+
+td {
+    color: hsl(14, 45%, 36%);
+    font-weight: bold;
+}
+
+th {
+    font-weight: normal;
+}
+
+footer, a {
+    font-size: 10px;
+    text-decoration: none;
+    color: black;
+    font-style: italic;
+}
